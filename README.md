@@ -106,7 +106,7 @@ AI estimation if not available
 
 This combines symbolic data + generative reasoning.
 
-🗓 Intelligent Day Detection
+Intelligent Day Detection
 
 Automatically detects:
 
@@ -120,15 +120,15 @@ Automatically detects:
 
 Defaults to 3 days if unspecified.
 
-🗺 Google Maps Injection
+Google Maps Injection
 
 Each location is converted into:
 
-https://www.google.com/maps/search/{Place},+Tokyo,+Japan
+https://www.google.com/maps/search/{Place}
 
 Clickable buttons are automatically injected into the output.
 
-🛡 Hallucination Control
+Hallucination Control
 
 Prompt enforces:
 
