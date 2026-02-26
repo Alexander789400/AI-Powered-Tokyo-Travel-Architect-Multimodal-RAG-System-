@@ -1,4 +1,4 @@
-# AI-Tokyo-Travel-Architect
+# AI-Powered Tokyo Travel Architect (Multimodal RAG System)
 
 Multimodal RAG-Based Intelligent Itinerary Generator
 
